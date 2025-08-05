@@ -10,5 +10,7 @@ __pycache__/
 **/*.egg-info/
 **/__pycache__/
 
+*/*.ipynb_check*
+
 # exclude the build dir
 _build/
